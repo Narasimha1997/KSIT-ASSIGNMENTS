@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KSIT_ASSIGNMENT OOPS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KSIT_ASSIGNMENT_OOPS_jar</output-path>
+    <root id="archive" name="KSIT_ASSIGNMENT OOPS.jar">
+      <element id="module-output" name="KSIT_ASSIGNMENT OOPS" />
+    </root>
+  </artifact>
+</component>
